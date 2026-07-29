@@ -91,19 +91,14 @@ export default function App() {
           <Image
             source={{
               uri: 
-            }}'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paul_Wesley_2019.jpg/440px-Paul_Wesley_2019.jpg'
+            }}'https://br.pinterest.com/pin/788270741033637053/'
             style={styles.personagem}
           />
 
           <Text style={styles.nome}>
             Stefan Salvatore
           </Text>
-<Image
-  source={{
-    uri: 'https://pin.it/4d67IF553'
-  }}
-  style={styles.imagem}
-/>
+
           <Text style={styles.descricao}>
             Um vampiro com um coração bondoso que luta
             contra sua natureza para proteger quem ama.
