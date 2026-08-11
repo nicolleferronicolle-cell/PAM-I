@@ -31,7 +31,7 @@ export default function StackNavigator() {
           name="Login"
           component={Login}
           options={{
-            title: 'Diário de um Vampiro',
+            title: 'Diário de um Vampira',
           }}
         />
 
@@ -39,7 +39,7 @@ export default function StackNavigator() {
           name="Home"
           component={Home}
           options={{
-            title: 'Diário de um Vampiro',
+            title: 'Diário de um Vampira',
           }}
         />
 
